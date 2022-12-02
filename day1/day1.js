@@ -4,4 +4,3 @@ wrapping = (gifts) => {
 	  return wrap + "\n*" + gift + "*\n" + wrap;
 	});
   };
-  
