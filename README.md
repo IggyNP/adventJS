@@ -1,5 +1,5 @@
 # adventJS
-2022 Javascript Advent Calendar. <br>
+🎄 2022 - [AdventJS](https://adventjs.dev/en) 🎄 <br>
 24 days, 24 coding challenges.
 
 | Day |                 Challenge                | Difficulty |                                   Instructions                                  |                                 Solution                                |
